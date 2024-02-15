@@ -1,5 +1,18 @@
 C:\xampp\apache\conf\extra\httpd-vhosts.conf
+
+<VirtualHost *:80>
+    	DocumentRoot "C:/xampp/htdocs/laravel/primer/public
+	ServerName primerlaravel7.com
+</VirtualHost>
+
+
+
+
 C:\Windows\System32\drivers\etc\hosts
+
+127.0.0.1       primerlaravel7.com
+
+
 
 adresa na proektot e
 primerlaravel7.com 
